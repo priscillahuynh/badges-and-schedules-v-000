@@ -11,5 +11,6 @@ end
   new_array
 end
 
-def assign_rooms(attendees)
+def assign_rooms(array)
+  
   
