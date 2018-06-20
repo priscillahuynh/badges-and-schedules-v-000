@@ -5,5 +5,5 @@ end
 
 def batch_badge_creator(array)
   badge_batch=Array.new
-  badge_batch<<badge_maker
+  return badge_batch<<badge_maker
 end
